@@ -1,0 +1,952 @@
+The test result contains two test result
+Test1:
+How many profs:
+4
+Enter Prof 1's name:
+aa
+Enter Prof 2's name:
+bb
+Enter Prof 3's name:
+cc
+Enter Prof 4's name:
+dd
+How many forks:
+2
+How many bibs:
+2
+***************************************
+Test2:
+How many profs:
+4
+Enter Prof 1's name:
+aa
+Enter Prof 2's name:
+bb
+Enter Prof 3's name:
+cc
+Enter Prof 4's name:
+dd
+How many forks:
+1
+How many bibs:
+1
+
+
+
+
+
+***************************************
+***************************************
+Test1 result
+
+***************************************
+How many profs:
+4
+Enter Prof 1's name:
+aa
+Enter Prof 2's name:
+bb
+Enter Prof 3's name:
+cc
+Enter Prof 4's name:
+dd
+How many forks:
+2
+How many bibs:
+2
+Creating aa
+Creating bb
+Prof aa is sleeping
+Creating cc
+Prof bb is sleeping
+Creating dd
+Prof cc is sleeping
+=== Prof bb got Bib
+Prof dd is sleeping
+Prof bb is programming 6 lines of code.  Total written: 6
+=== Prof bb Returned Bib
+Prof bb is hungry
+=== Prof bb got Fork
+Prof bb is eating 5 noodles! YUM YUM BURP   Total eaten: 5
+=== Prof bb Returned Fork
+Prof bb is sleeping
+=== Prof dd got Bib
+Prof dd is programming 6 lines of code.  Total written: 6
+=== Prof dd Returned Bib
+Prof dd is hungry
+=== Prof dd got Fork
+Prof dd is eating 9 noodles! YUM YUM BURP   Total eaten: 9
+=== Prof dd Returned Fork
+Prof dd is sleeping
+=== Prof cc got Bib
+Prof cc is programming 4 lines of code.  Total written: 4
+=== Prof cc Returned Bib
+Prof cc is hungry
+=== Prof cc got Fork
+Prof cc is eating 3 noodles! YUM YUM BURP   Total eaten: 3
+=== Prof cc Returned Fork
+Prof cc is sleeping
+=== Prof aa got Bib
+Prof aa is programming 7 lines of code.  Total written: 7
+=== Prof aa Returned Bib
+Prof aa is hungry
+=== Prof aa got Fork
+Prof aa is eating 9 noodles! YUM YUM BURP   Total eaten: 9
+=== Prof bb got Bib
+Prof bb is programming 7 lines of code.  Total written: 13
+=== Prof aa Returned Fork
+Prof aa is sleeping
+=== Prof dd got Bib
+Prof dd is programming 19 lines of code.  Total written: 25
+=== Prof bb Returned Bib
+Prof bb is hungry
+=== Prof bb got Fork
+Prof bb is eating 7 noodles! YUM YUM BURP   Total eaten: 12
+=== Prof bb Returned Fork
+Prof bb is sleeping
+=== Prof dd Returned Bib
+Prof dd is hungry
+=== Prof dd got Fork
+Prof dd is eating 10 noodles! YUM YUM BURP   Total eaten: 19
+=== Prof dd Returned Fork
+Prof dd is sleeping
+=== Prof dd got Bib
+Prof dd is programming 10 lines of code.  Total written: 35
+=== Prof dd Returned Bib
+Prof dd is hungry
+=== Prof dd got Fork
+Prof dd is eating 9 noodles! YUM YUM BURP   Total eaten: 28
+=== Prof cc got Bib
+Prof cc is programming 9 lines of code.  Total written: 13
+=== Prof dd Returned Fork
+Prof dd is sleeping
+=== Prof cc Returned Bib
+Prof cc is hungry
+=== Prof cc got Fork
+Prof cc is eating 3 noodles! YUM YUM BURP   Total eaten: 6
+=== Prof dd got Bib
+Prof dd is programming 3 lines of code.  Total written: 38
+=== Prof cc Returned Fork
+Prof cc is sleeping
+=== Prof dd Returned Bib
+Prof dd is hungry
+=== Prof dd got Fork
+Prof dd is eating 9 noodles! YUM YUM BURP   Total eaten: 37
+=== Prof bb got Bib
+Prof bb is programming 19 lines of code.  Total written: 32
+=== Prof dd Returned Fork
+Prof dd is sleeping
+=== Prof aa got Bib
+Prof aa is programming 0 lines of code.  Total written: 7
+=== Prof aa Returned Bib
+Prof aa is hungry
+=== Prof aa got Fork
+Prof aa is eating 9 noodles! YUM YUM BURP   Total eaten: 18
+=== Prof bb Returned Bib
+Prof bb is hungry
+=== Prof bb got Fork
+Prof bb is eating 8 noodles! YUM YUM BURP   Total eaten: 20
+=== Prof aa Returned Fork
+Prof aa is sleeping
+=== Prof bb Returned Fork
+Prof bb is sleeping
+=== Prof aa got Bib
+Prof aa is programming 1 lines of code.  Total written: 8
+=== Prof aa Returned Bib
+Prof aa is hungry
+=== Prof aa got Fork
+Prof aa is eating 4 noodles! YUM YUM BURP   Total eaten: 22
+=== Prof aa Returned Fork
+Prof aa is sleeping
+=== Prof aa got Bib
+Prof aa is programming 5 lines of code.  Total written: 13
+=== Prof aa Returned Bib
+Prof aa is hungry
+=== Prof aa got Fork
+Prof aa is eating 2 noodles! YUM YUM BURP   Total eaten: 24
+=== Prof aa Returned Fork
+Prof aa is sleeping
+=== Prof aa got Bib
+Prof aa is programming 11 lines of code.  Total written: 24
+=== Prof cc got Bib
+Prof cc is programming 7 lines of code.  Total written: 20
+=== Prof dd is waiting for Bib.
+=== Prof cc Returned Bib
+Prof cc is hungry
+=== Prof aa Returned Bib
+Prof aa is hungry
+=== Prof cc got Fork
+=== Prof aa got Fork
+Prof aa is eating 7 noodles! YUM YUM BURP   Total eaten: 31
+Prof cc is eating 5 noodles! YUM YUM BURP   Total eaten: 11
+=== Prof cc Returned Fork
+Prof cc is sleeping
+=== Prof aa Returned Fork
+Prof aa is sleeping
+Prof dd is hungry
+=== Prof dd got Fork
+Prof dd is eating 6 noodles! YUM YUM BURP   Total eaten: 43
+=== Prof cc got Bib
+Prof cc is programming 16 lines of code.  Total written: 36
+=== Prof dd Returned Fork
+Prof dd is sleeping
+=== Prof bb got Bib
+Prof bb is programming 13 lines of code.  Total written: 45
+=== Prof cc Returned Bib
+Prof cc is hungry
+=== Prof cc got Fork
+Prof cc is eating 8 noodles! YUM YUM BURP   Total eaten: 19
+=== Prof bb Returned Bib
+Prof bb is hungry
+=== Prof bb got Fork
+Prof bb is eating 3 noodles! YUM YUM BURP   Total eaten: 23
+=== Prof bb Returned Fork
+Prof bb is sleeping
+=== Prof cc Returned Fork
+Prof cc is sleeping
+=== Prof aa got Bib
+=== Prof cc got Bib
+Prof aa is programming 11 lines of code.  Total written: 35
+Prof cc is programming 6 lines of code.  Total written: 42
+=== Prof bb is waiting for Bib.
+=== Prof cc Returned Bib
+Prof cc is hungry
+=== Prof cc got Fork
+Prof cc is eating 3 noodles! YUM YUM BURP   Total eaten: 22
+=== Prof cc Returned Fork
+Prof cc is sleeping
+=== Prof aa Returned Bib
+Prof aa is hungry
+=== Prof aa got Fork
+Prof aa is eating 8 noodles! YUM YUM BURP   Total eaten: 39
+=== Prof aa Returned Fork
+Prof aa is sleeping
+=== Prof dd got Bib
+Prof dd is programming 7 lines of code.  Total written: 45
+=== Prof dd Returned Bib
+Prof dd is hungry
+=== Prof dd got Fork
+Prof dd is eating 9 noodles! YUM YUM BURP   Total eaten: 52
+=== Prof dd Returned Fork
+Prof dd is sleeping
+=== Prof aa got Bib
+Prof aa is programming 0 lines of code.  Total written: 35
+=== Prof aa Returned Bib
+Prof aa is hungry
+=== Prof aa got Fork
+Prof aa is eating 5 noodles! YUM YUM BURP   Total eaten: 44
+=== Prof aa Returned Fork
+Prof aa is sleeping
+=== Prof cc got Bib
+Prof cc is programming 14 lines of code.  Total written: 56
+=== Prof cc Returned Bib
+Prof cc is hungry
+=== Prof cc got Fork
+Prof cc is eating 10 noodles! YUM YUM BURP   Total eaten: 32
+=== Prof dd got Bib
+Prof dd is programming 17 lines of code.  Total written: 62
+=== Prof cc Returned Fork
+Prof cc is sleeping
+=== Prof cc got Bib
+Prof cc is programming 14 lines of code.  Total written: 70
+=== Prof dd Returned Bib
+Prof dd is hungry
+=== Prof dd got Fork
+Prof dd is eating 7 noodles! YUM YUM BURP   Total eaten: 59
+=== Prof dd Returned Fork
+Prof dd is sleeping
+=== Prof cc Returned Bib
+Prof cc is hungry
+=== Prof cc got Fork
+Prof cc is eating 10 noodles! YUM YUM BURP   Total eaten: 42
+=== Prof cc Returned Fork
+Prof cc is sleeping
+=== Prof aa got Bib
+Prof aa is programming 18 lines of code.  Total written: 53
+=== Prof dd got Bib
+Prof dd is programming 2 lines of code.  Total written: 64
+=== Prof aa Returned Bib
+Prof aa is hungry
+=== Prof aa got Fork
+Prof aa is eating 9 noodles! YUM YUM BURP   Total eaten: 53
+=== Prof dd Returned Bib
+Prof dd is hungry
+=== Prof dd got Fork
+Prof dd is eating 10 noodles! YUM YUM BURP   Total eaten: 69
+=== Prof aa Returned Fork
+Prof aa is sleeping
+=== Prof dd Returned Fork
+Prof dd is sleeping
+=== Prof dd got Bib
+Prof dd is programming 15 lines of code.  Total written: 79
+=== Prof cc got Bib
+Prof cc is programming 1 lines of code.  Total written: 71
+=== Prof cc Returned Bib
+Prof cc is hungry
+=== Prof cc got Fork
+Prof cc is eating 5 noodles! YUM YUM BURP   Total eaten: 47
+=== Prof cc Returned Fork
+Prof cc is sleeping
+=== Prof cc got Bib
+Prof cc is programming 13 lines of code.  Total written: 84
+=== Prof dd Returned Bib
+Prof dd is hungry
+=== Prof dd got Fork
+Prof dd is eating 10 noodles! YUM YUM BURP   Total eaten: 79
+=== Prof dd Returned Fork
+Prof dd is sleeping
+=== Prof cc Returned Bib
+Prof cc is hungry
+=== Prof cc got Fork
+Prof cc is eating 3 noodles! YUM YUM BURP   Total eaten: 50
+=== Prof cc Returned Fork
+Prof cc is sleeping
+=== Prof cc got Bib
+Prof cc is programming 7 lines of code.  Total written: 91
+=== Prof dd got Bib
+Prof dd is programming 6 lines of code.  Total written: 85
+=== Prof cc Returned Bib
+Prof cc is hungry
+=== Prof cc got Fork
+Prof cc is eating 6 noodles! YUM YUM BURP   Total eaten: 56
+=== Prof dd Returned Bib
+Prof dd is hungry
+=== Prof dd got Fork
+Prof dd is eating 3 noodles! YUM YUM BURP   Total eaten: 82
+=== Prof aa got Bib
+Prof aa is programming 16 lines of code.  Total written: 69
+=== Prof dd Returned Fork
+Prof dd is sleeping
+=== Prof cc Returned Fork
+Prof cc is sleeping
+=== Prof aa Returned Bib
+Prof aa is hungry
+=== Prof aa got Fork
+Prof aa is eating 6 noodles! YUM YUM BURP   Total eaten: 59
+=== Prof aa Returned Fork
+Prof aa is sleeping
+=== Prof cc got Bib
+Prof cc is programming 15 lines of code.  Total written: 106
+=== Prof dd got Bib
+Prof dd is programming 5 lines of code.  Total written: 90
+=== Prof dd Returned Bib
+Prof dd is hungry
+=== Prof dd got Fork
+Prof dd is eating 3 noodles! YUM YUM BURP   Total eaten: 85
+=== Prof cc Returned Bib
+=== Prof aa got Bib
+Prof aa is programming 12 lines of code.  Total written: 81
+Prof cc is hungry
+=== Prof cc got Fork
+Prof cc is eating 9 noodles! YUM YUM BURP   Total eaten: 65
+=== Prof dd Returned Fork
+Prof dd is sleeping
+=== Prof cc Returned Fork
+Prof cc is sleeping
+=== Prof aa Returned Bib
+Prof aa is hungry
+=== Prof aa got Fork
+Prof aa is eating 4 noodles! YUM YUM BURP   Total eaten: 63
+=== Prof aa Returned Fork
+Prof aa is sleeping
+=== Prof aa got Bib
+Prof aa is programming 17 lines of code.  Total written: 98
+=== Prof aa Returned Bib
+Prof aa is hungry
+=== Prof aa got Fork
+Prof aa is eating 9 noodles! YUM YUM BURP   Total eaten: 72
+=== Prof cc got Bib
+Prof cc is programming 13 lines of code.  Total written: 119
+=== Prof aa Returned Fork
+Prof aa is sleeping
+=== Prof cc Returned Bib
+Prof cc is hungry
+=== Prof cc got Fork
+Prof cc is eating 4 noodles! YUM YUM BURP   Total eaten: 69
+=== Prof cc Returned Fork
+Prof cc is sleeping
+=== Prof aa got Bib
+Prof aa is programming 6 lines of code.  Total written: 104
+=== Prof aa Returned Bib
+Prof aa is hungry
+=== Prof aa got Fork
+Prof aa is eating 7 noodles! YUM YUM BURP   Total eaten: 79
+=== Prof cc got Bib
+Prof cc is programming 14 lines of code.  Total written: 133
+=== Prof aa Returned Fork
+Prof aa is sleeping
+=== Prof dd got Bib
+Prof dd is programming 0 lines of code.  Total written: 90
+=== Prof dd Returned Bib
+Prof dd is sleeping
+=== Prof cc Returned Bib
+Prof cc is hungry
+=== Prof cc got Fork
+Prof cc is eating 9 noodles! YUM YUM BURP   Total eaten: 78
+=== Prof cc Returned Fork
+Prof cc is sleeping
+=== Prof dd got Bib
+Prof dd is programming 8 lines of code.  Total written: 98
+=== Prof aa got Bib
+Prof aa is programming 17 lines of code.  Total written: 121
+=== Prof dd Returned Bib
+Prof dd is sleeping
+=== Prof aa Returned Bib
+Prof aa is hungry
+=== Prof aa got Fork
+Prof aa is eating 2 noodles! YUM YUM BURP   Total eaten: 81
+=== Prof aa Returned Fork
+Prof aa is sleeping
+=== Prof cc got Bib
+Prof cc is programming 2 lines of code.  Total written: 135
+=== Prof cc Returned Bib
+Prof cc is hungry
+=== Prof cc got Fork
+Prof cc is eating 7 noodles! YUM YUM BURP   Total eaten: 85
+=== Prof cc Returned Fork
+Prof cc is sleeping
+=== Prof dd got Bib
+Prof dd is programming 8 lines of code.  Total written: 106
+=== Prof dd Returned Bib
+Prof dd is sleeping
+=== Prof aa got Bib
+Prof aa is programming 13 lines of code.  Total written: 134
+=== Prof dd got Bib
+Prof dd is programming 19 lines of code.  Total written: 125
+=== Prof aa Returned Bib
+Prof aa is hungry
+=== Prof aa got Fork
+Prof aa is eating 2 noodles! YUM YUM BURP   Total eaten: 83
+=== Prof aa Returned Fork
+Prof aa is sleeping
+=== Prof dd Returned Bib
+Prof dd is sleeping
+=== Prof aa got Bib
+Prof aa is programming 16 lines of code.  Total written: 150
+=== Prof cc got Bib
+Prof cc is programming 4 lines of code.  Total written: 139
+=== Prof cc Returned Bib
+Prof cc is sleeping
+=== Prof aa Returned Bib
+Prof aa is hungry
+=== Prof aa got Fork
+Prof aa is eating 2 noodles! YUM YUM BURP   Total eaten: 85
+=== Prof aa Returned Fork
+Prof aa is sleeping
+=== Prof cc got Bib
+Prof cc is programming 13 lines of code.  Total written: 152
+=== Prof dd got Bib
+Prof dd is programming 5 lines of code.  Total written: 130
+=== Prof dd Returned Bib
+Prof dd is sleeping
+=== Prof cc Returned Bib
+Prof cc is sleeping
+=== Prof aa got Bib
+Prof aa is programming 11 lines of code.  Total written: 161
+=== Prof aa Returned Bib
+Prof aa is sleeping
+=== Prof aa got Bib
+Prof aa is programming 4 lines of code.  Total written: 165
+=== Prof aa Returned Bib
+Prof aa is sleeping
+=== Prof dd got Bib
+Prof dd is programming 16 lines of code.  Total written: 146
+=== Prof cc got Bib
+Prof cc is programming 2 lines of code.  Total written: 154
+=== Prof cc Returned Bib
+Prof cc is sleeping
+=== Prof dd Returned Bib
+Prof dd is sleeping
+=== Prof dd got Bib
+Prof dd is programming 7 lines of code.  Total written: 153
+=== Prof dd Returned Bib
+Prof dd is sleeping
+=== Prof aa got Bib
+Prof aa is programming 12 lines of code.  Total written: 177
+=== Prof dd got Bib
+Prof dd is programming 16 lines of code.  Total written: 169
+=== Prof cc is waiting for Bib.
+=== Prof aa Returned Bib
+Prof aa is sleeping
+Prof cc is sleeping
+=== Prof dd Returned Bib
+Prof dd is sleeping
+=== Prof cc got Bib
+Prof cc is programming 15 lines of code.  Total written: 169
+=== Prof dd got Bib
+Prof dd is programming 6 lines of code.  Total written: 175
+=== Prof dd Returned Bib
+Prof dd is sleeping
+=== Prof cc Returned Bib
+Prof cc is sleeping
+=== Prof aa got Bib
+Prof aa is programming 7 lines of code.  Total written: 184
+=== Prof aa Returned Bib
+Prof aa is sleeping
+=== Prof dd got Bib
+Prof dd is programming 2 lines of code.  Total written: 177
+=== Prof dd Returned Bib
+Prof dd is sleeping
+=== Prof cc got Bib
+Prof cc is programming 11 lines of code.  Total written: 180
+=== Prof cc Returned Bib
+Prof cc is sleeping
+=== Prof aa got Bib
+Prof aa is programming 2 lines of code.  Total written: 186
+=== Prof aa Returned Bib
+Prof aa is sleeping
+=== Prof cc got Bib
+Prof cc is programming 0 lines of code.  Total written: 180
+=== Prof cc Returned Bib
+Prof cc is sleeping
+=== Prof dd got Bib
+Prof dd is programming 4 lines of code.  Total written: 181
+=== Prof dd Returned Bib
+Prof dd is sleeping
+=== Prof cc got Bib
+Prof cc is programming 4 lines of code.  Total written: 184
+=== Prof cc Returned Bib
+Prof cc is sleeping
+=== Prof aa got Bib
+Prof aa is programming 9 lines of code.  Total written: 195
+=== Prof aa Returned Bib
+Prof aa is sleeping
+=== Prof dd got Bib
+Prof dd is programming 17 lines of code.  Total written: 198
+=== Prof cc got Bib
+Prof cc is programming 15 lines of code.  Total written: 199
+=== Prof dd Returned Bib
+Prof dd is sleeping
+=== Prof cc Returned Bib
+Prof cc is sleeping
+=== Prof aa got Bib
+Prof aa is programming 3 lines of code.  Total written: 198
+=== Prof aa Returned Bib
+Prof aa is sleeping
+=== Prof aa got Bib
+=== Prof cc got Bib
+Prof aa is programming 2 lines of code.  Total written: 200
+Prof cc is programming 1 lines of code.  Total written: 200
+=== Prof cc Returned Bib
+===============>Prof cc is ALL done
+=== Prof aa Returned Bib
+===============>Prof aa is ALL done
+=== Prof dd got Bib
+Prof dd is programming 2 lines of code.  Total written: 200
+=== Prof dd Returned Bib
+===============>Prof dd is ALL done
+
+***************************************
+***************************************
+
+
+
+
+
+Second test result
+***************************************
+How many profs:
+4
+Enter Prof 1's name:
+aa
+Enter Prof 2's name:
+bb
+Enter Prof 3's name:
+cc
+Enter Prof 4's name:
+dd
+How many forks:
+1
+How many bibs:
+1
+Creating aa
+Creating bb
+Creating cc
+Prof aa is sleeping
+Prof bb is sleeping
+Creating dd
+Prof cc is sleeping
+Prof dd is sleeping
+=== Prof dd got Bib
+Prof dd is programming 15 lines of code.  Total written: 15
+=== Prof cc is waiting for Bib.
+=== Prof dd Returned Bib
+Prof dd is hungry
+=== Prof dd got Fork
+Prof dd is eating 6 noodles! YUM YUM BURP   Total eaten: 6
+=== Prof dd Returned Fork
+Prof dd is sleeping
+=== Prof aa got Bib
+Prof aa is programming 2 lines of code.  Total written: 2
+Prof cc is hungry
+=== Prof cc got Fork
+Prof cc is eating 8 noodles! YUM YUM BURP   Total eaten: 8
+=== Prof aa Returned Bib
+Prof aa is hungry
+=== Prof aa is waiting for Fork.
+Prof aa is sleeping
+=== Prof cc Returned Fork
+Prof cc is sleeping
+=== Prof bb got Bib
+Prof bb is programming 0 lines of code.  Total written: 0
+=== Prof bb Returned Bib
+Prof bb is hungry
+=== Prof bb got Fork
+Prof bb is eating 6 noodles! YUM YUM BURP   Total eaten: 6
+=== Prof bb Returned Fork
+Prof bb is sleeping
+=== Prof cc got Bib
+Prof cc is programming 12 lines of code.  Total written: 12
+=== Prof bb is waiting for Bib.
+=== Prof cc Returned Bib
+Prof cc is hungry
+=== Prof cc got Fork
+Prof cc is eating 5 noodles! YUM YUM BURP   Total eaten: 13
+=== Prof aa got Bib
+Prof aa is programming 8 lines of code.  Total written: 10
+=== Prof cc Returned Fork
+Prof cc is sleeping
+Prof bb is hungry
+=== Prof bb got Fork
+Prof bb is eating 2 noodles! YUM YUM BURP   Total eaten: 8
+=== Prof bb Returned Fork
+Prof bb is sleeping
+=== Prof aa Returned Bib
+Prof aa is hungry
+=== Prof aa got Fork
+Prof aa is eating 5 noodles! YUM YUM BURP   Total eaten: 5
+=== Prof aa Returned Fork
+Prof aa is sleeping
+=== Prof dd got Bib
+Prof dd is programming 2 lines of code.  Total written: 17
+=== Prof dd Returned Bib
+Prof dd is hungry
+=== Prof dd got Fork
+Prof dd is eating 9 noodles! YUM YUM BURP   Total eaten: 15
+=== Prof bb got Bib
+Prof bb is programming 2 lines of code.  Total written: 2
+=== Prof dd Returned Fork
+Prof dd is sleeping
+=== Prof bb Returned Bib
+=== Prof aa got Bib
+Prof aa is programming 15 lines of code.  Total written: 25
+Prof bb is hungry
+=== Prof bb got Fork
+Prof bb is eating 2 noodles! YUM YUM BURP   Total eaten: 10
+=== Prof bb Returned Fork
+Prof bb is sleeping
+=== Prof cc is waiting for Bib.
+=== Prof aa Returned Bib
+Prof aa is hungry
+=== Prof aa got Fork
+Prof aa is eating 6 noodles! YUM YUM BURP   Total eaten: 11
+Prof cc is hungry
+=== Prof cc is waiting for Fork.
+=== Prof aa Returned Fork
+Prof aa is sleeping
+=== Prof dd got Bib
+Prof dd is programming 0 lines of code.  Total written: 17
+=== Prof dd Returned Bib
+Prof dd is hungry
+=== Prof dd got Fork
+Prof dd is eating 4 noodles! YUM YUM BURP   Total eaten: 19
+=== Prof dd Returned Fork
+Prof dd is sleeping
+=== Prof dd got Bib
+Prof dd is programming 5 lines of code.  Total written: 22
+=== Prof dd Returned Bib
+Prof dd is hungry
+=== Prof dd got Fork
+Prof dd is eating 5 noodles! YUM YUM BURP   Total eaten: 24
+=== Prof dd Returned Fork
+Prof dd is sleeping
+=== Prof bb got Bib
+Prof bb is programming 18 lines of code.  Total written: 20
+=== Prof aa is waiting for Bib.
+=== Prof bb Returned Bib
+Prof bb is hungry
+=== Prof bb got Fork
+Prof bb is eating 8 noodles! YUM YUM BURP   Total eaten: 18
+Prof aa is hungry
+=== Prof aa is waiting for Fork.
+=== Prof bb Returned Fork
+Prof bb is sleeping
+Prof aa is sleeping
+=== Prof aa got Bib
+Prof aa is programming 11 lines of code.  Total written: 36
+=== Prof aa Returned Bib
+Prof aa is hungry
+=== Prof aa got Fork
+Prof aa is eating 5 noodles! YUM YUM BURP   Total eaten: 16
+=== Prof bb got Bib
+Prof bb is programming 7 lines of code.  Total written: 27
+=== Prof aa Returned Fork
+Prof aa is sleeping
+=== Prof bb Returned Bib
+=== Prof dd got Bib
+Prof dd is programming 10 lines of code.  Total written: 32
+Prof bb is hungry
+=== Prof bb got Fork
+Prof bb is eating 10 noodles! YUM YUM BURP   Total eaten: 28
+=== Prof dd Returned Bib
+Prof dd is hungry
+=== Prof bb Returned Fork
+Prof bb is sleeping
+=== Prof dd got Fork
+Prof dd is eating 3 noodles! YUM YUM BURP   Total eaten: 27
+=== Prof dd Returned Fork
+Prof dd is sleeping
+=== Prof dd got Bib
+Prof dd is programming 10 lines of code.  Total written: 42
+=== Prof dd Returned Bib
+Prof dd is hungry
+=== Prof dd got Fork
+Prof dd is eating 5 noodles! YUM YUM BURP   Total eaten: 32
+=== Prof dd Returned Fork
+Prof dd is sleeping
+=== Prof dd got Bib
+Prof dd is programming 19 lines of code.  Total written: 61
+=== Prof aa is waiting for Bib.
+=== Prof dd Returned Bib
+Prof dd is hungry
+=== Prof dd got Fork
+Prof dd is eating 6 noodles! YUM YUM BURP   Total eaten: 38
+=== Prof dd Returned Fork
+Prof dd is sleeping
+Prof aa is hungry
+=== Prof aa got Fork
+Prof aa is eating 10 noodles! YUM YUM BURP   Total eaten: 26
+=== Prof bb got Bib
+Prof bb is programming 5 lines of code.  Total written: 32
+=== Prof bb Returned Bib
+Prof bb is hungry
+=== Prof bb is waiting for Fork.
+=== Prof aa Returned Fork
+Prof aa is sleeping
+Prof bb is sleeping
+=== Prof aa got Bib
+Prof aa is programming 10 lines of code.  Total written: 46
+=== Prof aa Returned Bib
+Prof aa is hungry
+=== Prof aa got Fork
+Prof aa is eating 6 noodles! YUM YUM BURP   Total eaten: 32
+=== Prof aa Returned Fork
+Prof aa is sleeping
+=== Prof aa got Bib
+Prof aa is programming 12 lines of code.  Total written: 58
+=== Prof dd is waiting for Bib.
+=== Prof aa Returned Bib
+Prof aa is hungry
+=== Prof aa got Fork
+Prof aa is eating 3 noodles! YUM YUM BURP   Total eaten: 35
+=== Prof aa Returned Fork
+Prof aa is sleeping
+=== Prof bb got Bib
+Prof bb is programming 5 lines of code.  Total written: 37
+=== Prof bb Returned Bib
+Prof bb is hungry
+=== Prof bb got Fork
+Prof bb is eating 9 noodles! YUM YUM BURP   Total eaten: 37
+=== Prof bb Returned Fork
+Prof bb is sleeping
+=== Prof bb got Bib
+Prof bb is programming 17 lines of code.  Total written: 54
+=== Prof bb Returned Bib
+Prof bb is hungry
+=== Prof bb got Fork
+Prof bb is eating 2 noodles! YUM YUM BURP   Total eaten: 39
+=== Prof bb Returned Fork
+Prof bb is sleeping
+=== Prof aa got Bib
+Prof aa is programming 0 lines of code.  Total written: 58
+=== Prof aa Returned Bib
+Prof aa is hungry
+=== Prof aa got Fork
+Prof aa is eating 6 noodles! YUM YUM BURP   Total eaten: 41
+=== Prof aa Returned Fork
+Prof aa is sleeping
+=== Prof aa got Bib
+Prof aa is programming 13 lines of code.  Total written: 71
+=== Prof aa Returned Bib
+Prof aa is hungry
+=== Prof aa got Fork
+Prof aa is eating 2 noodles! YUM YUM BURP   Total eaten: 43
+=== Prof aa Returned Fork
+Prof aa is sleeping
+=== Prof bb got Bib
+Prof bb is programming 13 lines of code.  Total written: 67
+=== Prof bb Returned Bib
+Prof bb is hungry
+=== Prof bb got Fork
+Prof bb is eating 8 noodles! YUM YUM BURP   Total eaten: 47
+=== Prof bb Returned Fork
+Prof bb is sleeping
+=== Prof bb got Bib
+Prof bb is programming 11 lines of code.  Total written: 78
+=== Prof bb Returned Bib
+Prof bb is hungry
+=== Prof bb got Fork
+Prof bb is eating 7 noodles! YUM YUM BURP   Total eaten: 54
+=== Prof bb Returned Fork
+Prof bb is sleeping
+=== Prof aa got Bib
+Prof aa is programming 13 lines of code.  Total written: 84
+=== Prof aa Returned Bib
+Prof aa is hungry
+=== Prof aa got Fork
+Prof aa is eating 9 noodles! YUM YUM BURP   Total eaten: 52
+=== Prof aa Returned Fork
+Prof aa is sleeping
+=== Prof aa got Bib
+Prof aa is programming 18 lines of code.  Total written: 102
+=== Prof aa Returned Bib
+Prof aa is hungry
+=== Prof aa got Fork
+Prof aa is eating 4 noodles! YUM YUM BURP   Total eaten: 56
+=== Prof aa Returned Fork
+Prof aa is sleeping
+=== Prof aa got Bib
+Prof aa is programming 7 lines of code.  Total written: 109
+=== Prof aa Returned Bib
+Prof aa is hungry
+=== Prof aa got Fork
+Prof aa is eating 2 noodles! YUM YUM BURP   Total eaten: 58
+=== Prof aa Returned Fork
+Prof aa is sleeping
+=== Prof bb got Bib
+Prof bb is programming 8 lines of code.  Total written: 86
+=== Prof bb Returned Bib
+Prof bb is hungry
+=== Prof bb got Fork
+Prof bb is eating 7 noodles! YUM YUM BURP   Total eaten: 61
+=== Prof bb Returned Fork
+Prof bb is sleeping
+=== Prof aa got Bib
+Prof aa is programming 4 lines of code.  Total written: 113
+=== Prof aa Returned Bib
+Prof aa is hungry
+=== Prof aa got Fork
+Prof aa is eating 7 noodles! YUM YUM BURP   Total eaten: 65
+=== Prof aa Returned Fork
+Prof aa is sleeping
+=== Prof bb got Bib
+Prof bb is programming 2 lines of code.  Total written: 88
+=== Prof bb Returned Bib
+Prof bb is hungry
+=== Prof bb got Fork
+Prof bb is eating 2 noodles! YUM YUM BURP   Total eaten: 63
+=== Prof bb Returned Fork
+Prof bb is sleeping
+=== Prof bb got Bib
+Prof bb is programming 17 lines of code.  Total written: 105
+=== Prof bb Returned Bib
+Prof bb is hungry
+=== Prof bb got Fork
+Prof bb is eating 8 noodles! YUM YUM BURP   Total eaten: 71
+=== Prof bb Returned Fork
+Prof bb is sleeping
+=== Prof aa got Bib
+Prof aa is programming 4 lines of code.  Total written: 117
+=== Prof aa Returned Bib
+Prof aa is hungry
+=== Prof aa got Fork
+Prof aa is eating 7 noodles! YUM YUM BURP   Total eaten: 72
+=== Prof aa Returned Fork
+Prof aa is sleeping
+=== Prof bb got Bib
+Prof bb is programming 8 lines of code.  Total written: 113
+=== Prof bb Returned Bib
+Prof bb is hungry
+=== Prof bb got Fork
+Prof bb is eating 4 noodles! YUM YUM BURP   Total eaten: 75
+=== Prof bb Returned Fork
+Prof bb is sleeping
+=== Prof bb got Bib
+Prof bb is programming 19 lines of code.  Total written: 132
+=== Prof bb Returned Bib
+Prof bb is hungry
+=== Prof bb got Fork
+Prof bb is eating 3 noodles! YUM YUM BURP   Total eaten: 78
+=== Prof bb Returned Fork
+Prof bb is sleeping
+=== Prof aa got Bib
+Prof aa is programming 10 lines of code.  Total written: 127
+=== Prof aa Returned Bib
+Prof aa is hungry
+=== Prof aa got Fork
+Prof aa is eating 8 noodles! YUM YUM BURP   Total eaten: 80
+=== Prof aa Returned Fork
+Prof aa is sleeping
+=== Prof bb got Bib
+Prof bb is programming 18 lines of code.  Total written: 150
+=== Prof aa is waiting for Bib.
+=== Prof bb Returned Bib
+Prof bb is hungry
+=== Prof bb got Fork
+Prof bb is eating 7 noodles! YUM YUM BURP   Total eaten: 85
+=== Prof bb Returned Fork
+Prof bb is sleeping
+Prof aa is hungry
+=== Prof aa got Fork
+Prof aa is eating 5 noodles! YUM YUM BURP   Total eaten: 85
+=== Prof aa Returned Fork
+Prof aa is sleeping
+=== Prof bb got Bib
+Prof bb is programming 6 lines of code.  Total written: 156
+=== Prof bb Returned Bib
+Prof bb is sleeping
+=== Prof bb got Bib
+Prof bb is programming 11 lines of code.  Total written: 167
+=== Prof bb Returned Bib
+Prof bb is sleeping
+=== Prof bb got Bib
+Prof bb is programming 5 lines of code.  Total written: 172
+=== Prof bb Returned Bib
+Prof bb is sleeping
+=== Prof aa got Bib
+Prof aa is programming 2 lines of code.  Total written: 129
+=== Prof aa Returned Bib
+Prof aa is sleeping
+=== Prof bb got Bib
+Prof bb is programming 15 lines of code.  Total written: 187
+=== Prof bb Returned Bib
+Prof bb is sleeping
+=== Prof aa got Bib
+Prof aa is programming 17 lines of code.  Total written: 146
+=== Prof aa Returned Bib
+Prof aa is sleeping
+=== Prof bb got Bib
+Prof bb is programming 10 lines of code.  Total written: 197
+=== Prof bb Returned Bib
+Prof bb is sleeping
+=== Prof bb got Bib
+Prof bb is programming 3 lines of code.  Total written: 200
+=== Prof bb Returned Bib
+===============>Prof bb is ALL done
+=== Prof aa got Bib
+Prof aa is programming 2 lines of code.  Total written: 148
+=== Prof aa Returned Bib
+Prof aa is sleeping
+=== Prof aa got Bib
+Prof aa is programming 1 lines of code.  Total written: 149
+=== Prof aa Returned Bib
+Prof aa is sleeping
+=== Prof aa got Bib
+Prof aa is programming 10 lines of code.  Total written: 159
+=== Prof aa Returned Bib
+Prof aa is sleeping
+=== Prof aa got Bib
+Prof aa is programming 10 lines of code.  Total written: 169
+=== Prof aa Returned Bib
+Prof aa is sleeping
+=== Prof aa got Bib
+Prof aa is programming 19 lines of code.  Total written: 188
+=== Prof aa Returned Bib
+Prof aa is sleeping
+=== Prof aa got Bib
+Prof aa is programming 12 lines of code.  Total written: 200
+=== Prof aa Returned Bib
+===============>Prof aa is ALL done
+
+***************************************
+***************************************
